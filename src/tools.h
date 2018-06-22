@@ -28,6 +28,11 @@ public:
   * A helper method to calculate Jacobians.
   */
   MatrixXd CalculateJacobian(const VectorXd& x_state);
+    
+    /**
+     * A helper method to calculate the covariant matrix Q.
+     */
+    MatrixXd CalculateCovariantMatrix(const double dt, const double noise_ax, const double noise_ay);
 
 };
 
