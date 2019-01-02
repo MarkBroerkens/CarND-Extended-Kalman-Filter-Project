@@ -84,6 +84,5 @@ The results for dataset 2 are shown in the following image
 * [Cmake FAQS](https://cmake.org/Wiki/CMake_FAQ)
 * [Using make and writing Makefiles](https://www.cs.swarthmore.edu/~newhall/unixhelp/howto_makefiles.html)
 * [Youtube set of tutorials on using make and writing Makefile](https://www.youtube.com/watch?v=aw9wHbFTnAQ)
-* [MakeFiles](https://www.cs.umd.edu/class/fall2002/cmsc214/Tutorial/makefile.html)
  
 
